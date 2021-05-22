@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project-automatically-testing-java-master/automaticallytesting.iml" filepath="$PROJECT_DIR$/project-automatically-testing-java-master/automaticallytesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project-automatically-testing-java-master.iml" filepath="$PROJECT_DIR$/.idea/project-automatically-testing-java-master.iml" />
+    </modules>
+  </component>
+</project>
